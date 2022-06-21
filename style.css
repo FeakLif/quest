@@ -1,7 +1,7 @@
 * {
 margin:0;
 padding: 0;}
-div[type="form"]{background-color: blue;}
+div{background-color: blue;}
 label{
 display: block;
 margin-top: 1em;}
